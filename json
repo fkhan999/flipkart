@@ -1,0 +1,7 @@
+{
+"jql":'project = "SQQMP" and "Hour Claiming for month[Date]">="2022/08/01" ORDER BY created DESC',
+ "hours_updated":{'Ollu Prasad':0,'Avula Maheswaraiah':0,'Vijayakumar Ganapathi':0,'Vinitha Gantyada':0,'Farrukh Khan':0,'Debajit Hore':0,'Chethan Kumar':0,'Adusumalli Krishnaveni':0,'mansi singh':0},
+
+
+
+}
